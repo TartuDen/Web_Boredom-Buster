@@ -1,5 +1,7 @@
 # Boredom Buster
 
+![screenshot](public\img\image.png)
+
 ## Overview
 Boredom Buster is a web application designed to help users find activities to do when they're feeling bored. It offers a simple interface where users can select the type of activity they're interested in and the number of participants, and the application provides a suitable suggestion based on these preferences.
 
